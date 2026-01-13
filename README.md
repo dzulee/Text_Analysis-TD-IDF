@@ -1,1 +1,2 @@
 # Text_Analysis-TD-IDF
+I want to do some text keyword extraction from my google drive document containing a paragraph with entities mentioned. We wil understand about: fit_transform() Method wich is a combination of fit() and transform() .It simplify a two-step process of Standard scaling in particular converts the column of interest by transforming it to a range of numbers with mean = 0 and standard deviation = 1. When the fit_transform method is used, we can compute and apply the transformation in a single step.
